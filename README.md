@@ -22,8 +22,6 @@ A simple Flutter app to manage your daily tasks — add, complete, and delete ta
 
 ## 📸 Screenshots
 
-*(Add screenshots here if you'd like)*
-
 ---
 
 ## 🚀 Getting Started
